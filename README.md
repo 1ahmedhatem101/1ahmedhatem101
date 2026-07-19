@@ -31,14 +31,14 @@ I build scalable products end-to-end with a strong focus on **backend security**
 ## 🧰 Tech Stack
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,20 +49,20 @@ I build scalable products end-to-end with a strong focus on **backend security**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Tools & Skills
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-6C47FF?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-4A90E2?style=for-the-badge)
+![AI Assisted Development](https://img.shields.io/badge/AI%20Assisted%20Development-6C47FF?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=for-the-badge)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Paymob](https://img.shields.io/badge/Paymob-00A8E8?style=for-the-badge)
 
 ---
@@ -80,12 +80,12 @@ I build scalable products end-to-end with a strong focus on **backend security**
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1ahmedhatem101&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ahmedhatem101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1ahmedhatem101&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ahmed's GitHub stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1ahmedhatem101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1ahmedhatem101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=1ahmedhatem101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
