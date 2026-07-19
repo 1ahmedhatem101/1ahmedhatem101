@@ -75,19 +75,6 @@ I build scalable products end-to-end — from secure APIs to cloud infrastructur
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=1ahmedhatem101&show_icons=true&theme=radical&hide_border=true&commits_year=2026" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=1ahmedhatem101&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=1ahmedhatem101&theme=radical&hide_border=true&starting_year=2026" />
-</p>
-
----
-
 ### 📫 Contact Me
 
 - 📧 Email: [ahmedhatems568@gmail.com](mailto:ahmedhatems568@gmail.com)
