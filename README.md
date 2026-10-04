@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ahmed Hatem 👋</h1>
-<h3 align="center">Full-Stack Software Developer | Backend Security | Cloud & AI Solutions</h3>
+<h3 align="center">Full-Stack Software Developer | Cloud & AI Solutions</h3>
 
 <p align="center">
   I design and build secure, scalable products across backend systems, frontend experiences, cloud infrastructure, and AI-powered workflows.
