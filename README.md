@@ -21,6 +21,11 @@
   - Implement JWT authentication and backend security best practices
   - Migrated file storage to **AWS S3** for a more scalable architecture
   - Automated delivery through **GitHub Actions** CI/CD pipelines
+ 
+- Full-Stack Developer @ Autoyo (May 2026 – Present)
+  - Architected a bilingual smart home storefront with interactive 3D/2D rooms using react-three-fiber.
+  - Engineered a serverless backend via secure Google Apps Script webhooks and Google Sheets.
+  - Built automated transactional workflows integrating Resend and WhatsApp APIs.
 
 - 🧠 **Full-Stack Developer @ Vizzy** — *Jan 2026 – Present*
   - Sole developer of an AI-powered marketing platform serving real Egyptian SMB clients
